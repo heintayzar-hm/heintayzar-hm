@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/icTu2EupyGZl8exPq0/giphy.gif" width="50"> About me...  
 
 ```javascript
-const eliVillalejos = {
+const heinTayZar = {
   lookingFor: "Full-stack developer" || "Front-End web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React, HTML/CSS,  
