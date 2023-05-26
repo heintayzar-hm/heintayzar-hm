@@ -9,7 +9,6 @@
 
 ### <img src="https://media.giphy.com/media/icTu2EupyGZl8exPq0/giphy.gif" width="50"> About me...  
 
-- If you want to know more about me, here is my [resume](https://docs.google.com/document/d/14ni24ygUIS2fm-AcHuf-fE_1cYOiH_G6Qraz0ndPut4/edit?usp=sharing) 
 - I am currently on [Top 6](https://commits.top/myanmar_public.html) in my regional ranking.
 
 ```javascript
