@@ -28,6 +28,6 @@ const heinTayZar = {
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=heintayzar-hm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hein Tay Zar's github stats" /></a> -->
 ### Contributions
-  |[![GitHub Streak](https://streak-stats.demolab.com/?user=heintayzar-hm)](https://git.io/streak-stats)
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heintayzar-hm&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=heintayzar-hm)](https://git.io/streak-stats)
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heintayzar-hm&layout=compact&theme=buefy&hide_border=true" /></a>
